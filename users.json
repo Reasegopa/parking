@@ -1,0 +1,26 @@
+[
+    {
+        "username": "admin_gateway",
+        "password": "admin123",
+        "role": "admin",
+        "mall": "Gateway"
+    },
+    {
+        "username": "admin_pavilion",
+        "password": "admin123",
+        "role": "admin",
+        "mall": "Pavilion"
+    },
+    {
+        "username": "admin_lalucia",
+        "password": "admin123",
+        "role": "admin",
+        "mall": "La Lucia"
+    },
+    {
+        "username": "owner",
+        "password": "owner123",
+        "role": "owner",
+        "mall": null
+    }
+]
